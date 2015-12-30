@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>信息工程学院</item>
+        <item>机械工程学院</item>
+        <item>汽车工程学院</item>
+        <item>外语商贸学院</item>
+    </string-array>
+</resources>
